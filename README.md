@@ -2,12 +2,12 @@
 
 ## DESCRIPTION
 
-Kodecamp node js CRUD api task 
+Kodecamp node js CRUD api task
 
 ## INSTRUCTIONS
 
 ```bash
-git clone [link](github)
+git clone [link](https://github.com/billmal071/kodekamp-nodejs-task)
 npm i
 npm run dev
 ```
